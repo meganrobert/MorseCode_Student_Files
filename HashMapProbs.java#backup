@@ -1,0 +1,63 @@
+import java.util.*;
+import java.io.File;
+import java.io.IOException;
+
+public class HashMapProbs
+{
+    public static void main(String[] args)
+    {
+        Scanner input = new Scanner(System.in);
+        
+        //Do problems 2 Here
+        
+        
+        //Do problem 3 here
+
+        
+        //Do problem 4 here
+
+        
+        //Do problem 5 here
+        
+        
+        //Uncomment to test Problem 7
+        /*
+        HashMap<String, String> w;
+        w = takeBefore("apple", "fruit");
+        System.out.println(w.get("a")); // <-- f
+        System.out.println(w.get("p")); // <-- u
+        System.out.println(w.get("p")); // <-- u
+        System.out.println(w.get("i")); // <-- l
+        System.out.println(w.get("e")); // <-- t
+        */
+       
+        //Uncomment to test Problem 8
+        /*
+        HashMap<String, Boolean> hasMult;
+        String s = "robot"; 
+        hasMult = multiple(s);
+        
+        for(int i=0; i<s.length(); i++)
+        {
+            System.out.print(s.charAt(i) + " ");
+            System.out.println(hasMult.get(String.valueOf(s.charAt(i))));
+        }
+        */
+       
+        //Uncomment to test Problem 9
+        /*
+        HashMap<String, String> firstLtr;
+        firstLtr = charWord(new String[] {"tea", "Sale", "soda", "taco"});
+        System.out.println(firstLtr.get("s"));
+        System.out.println(firstLtr.get("t"));
+        */
+       
+       //Uncomment to test Problem 10
+       //wordFrequency();
+            
+    }
+    //Write your methods here.
+    
+    
+}
+
